@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "maJm9a6TLEItb7erf6TqzS7VWyge2EVyi9pMIiqR70WbfoowlJUPOv5pYpXTIYp3FJGiQqNSmVVeRQS3efpi3Q==",
+  "success": true,
+  "projectFilePath": "/Users/tylerjaramillo/Desktop/School/CIS4930/esep-webhooks/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+  "expectedPackageFiles": [
+    "/Users/tylerjaramillo/.nuget/packages/amazon.lambda.core/2.2.0/amazon.lambda.core.2.2.0.nupkg.sha512",
+    "/Users/tylerjaramillo/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.4.1/amazon.lambda.serialization.systemtextjson.2.4.1.nupkg.sha512",
+    "/Users/tylerjaramillo/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/tylerjaramillo/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/8.0.0/microsoft.netcore.app.runtime.linux-x64.8.0.0.nupkg.sha512",
+    "/Users/tylerjaramillo/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/8.0.0/microsoft.aspnetcore.app.runtime.linux-x64.8.0.0.nupkg.sha512",
+    "/Users/tylerjaramillo/.nuget/packages/microsoft.netcore.app.crossgen2.osx-x64/8.0.0/microsoft.netcore.app.crossgen2.osx-x64.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
